@@ -1,4 +1,8 @@
-# The 3-digit puzzle
+<p align="center">
+  <h1 align="center">Three Digit Puzzle</h1>
+</p>
+
+
 Given are two 3-digit numbers called 𝑆 (start) and 𝐺 (goal) and also a set of 3-digit numbers called 𝑓𝑜𝑟𝑏𝑖𝑑𝑑𝑒𝑛. To solve the puzzle, we want to get from 𝑆 to 𝐺 in the smallest number of moves. A move is a transformation of one number into another number by adding or subtracting 1 to one of its digits. For example, a move can take you from 123 to 124 by adding 1 to the last digit or from 953 to 853 by subtracting 1 from the first digit. Moves must satisfy the following constraints:
 
 + You cannot add to the digit 9 or subtract from the digit 0;
